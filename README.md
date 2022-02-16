@@ -1,7 +1,8 @@
 # valorant-agent-names
 Current Version: 4.03
 
-```std::string GetCharacterName(int id)
+```
+std::string GetCharacterName(int id)
 {
 
 	switch (id)
@@ -49,3 +50,4 @@ Current Version: 4.03
 		break;
 	}
 }
+```
