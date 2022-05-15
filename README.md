@@ -1,5 +1,5 @@
 # valorant-agent-names
-Current Version: 4.04
+Current Version: 4.09
 
 ```C
 13728064 Astra
